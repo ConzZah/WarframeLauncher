@@ -1,7 +1,22 @@
-# WarframeLauncher (v0.4)
+# WarframeLauncher (v0.5)
 **This Batch Script starts the Warframe Launcher &amp; copies your Password to clipboard for easy copy&amp;paste**
 
-![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/956e3967-d32b-4ca4-bce3-d284aba35cce)
+**Currently Supported Launchers: (2/3)**
+- The Standalone Version
+- The Steam Version
+-  **(will add support for the Epic Games Version next Update).**
+
+![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/94d6161d-1f5f-4e68-9797-92638d4d6854)
+
+
+## Features:
+ **(New in v0.5)**
+
+-   The Launcher is now able to detect which Version of Warframe you are using by checking the default install path for each version.
+
+-   Support for both the Standalone Launcher aswell as the Steam Version of Warframe
+
+
 
 # Usage
 ### - If you want your password copied to clipboard on start, Edit Line 3: 
@@ -9,17 +24,6 @@
 ![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/c8a5dc8d-07d6-4eea-9b90-707d6cd58210)
 
 
-
-### - To adjust the timing of when the script presses the [SPACE] Bar, thus triggering the [PLAY] Button, Edit Line 17:
-
-![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/5320a177-2a88-45bc-9953-31c8aa26a763)
-
-**(default is set to 7000ms as seen above, this is how much time you give the warframe launcher to load before the script presses [SPACE] )**
-
-(as explained in [Release Notes for v0.4](https://github.com/ConzZah/WarframeLauncher/releases/tag/v0.4))
-
-# Code (v0.4):
-![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/2ac349f1-4c27-4b88-a3a3-f1f97f9d002c)
 
 Cheers,
 
