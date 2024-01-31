@@ -9,12 +9,6 @@
 
 ![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/c8a5dc8d-07d6-4eea-9b90-707d6cd58210)
 
-## Patch Notes for v0.6:
-- as promised, v0.6 comes with support for the Epic Games version of Warframe.
-- script now closes after 10 seconds when done and no longer shows "waiting for x seconds, press a key to continue".
-- fixed that LAUNCHING WARFRAME would appear when in fact nothing had been launched yet.
-- alot of small improvements. 
-
 
 ## Features:
 **Currently Supported Launchers: (3/3)**
@@ -28,6 +22,13 @@ The script checks for the Warframe version currently installed on your system an
 - if you have installed Warframe on a different path than the standard one, edit these lines:
 
 ![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/1b77a585-d9ef-47be-900a-8643536c93ab)
+
+
+## Patch Notes for v0.6:
+- as promised, v0.6 comes with support for the Epic Games version of Warframe.
+- script now closes after 10 seconds when done and no longer shows "waiting for x seconds, press a key to continue".
+- fixed that LAUNCHING WARFRAME would appear when in fact nothing had been launched yet.
+- alot of small improvements. 
 
 
 Cheers,
