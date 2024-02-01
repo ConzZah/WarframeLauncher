@@ -17,13 +17,17 @@
 
 
 ## Patch Notes for v0.7:
-- defined, that the password in line 3 will now only be copied to clipboard if a game client has been found, where as in previous versions, it was always copied on start regardless. <-- (this is now fixed)
+- defined, that the password will now only be copied to clipboard if a game client has been found, where as in previous versions, it was always copied on start regardless. <-- (this is now fixed)
 - added a [error help page](https://github.com/ConzZah/WarframeLauncher/blob/main/error_noclientfound.md) to the repo and linked it in the script so anytime no game client is detected it will open automatically after 3 seconds
 - licensed the project under the [MIT-License](https://github.com/ConzZah/WarframeLauncher/blob/main/LICENSE) 
      
 ## DISCLAIMER
 
-Digital Extremes Ltd, Warframe and the logo Warframe are registered trademarks. All rights are reserved worldwide. This Launcher is a fanmade product and has no official link to Digital Extremes Ltd or Warframe.
+Digital Extremes Ltd, Warframe and the logo of Warframe are registered trademarks. All rights are reserved worldwide.
+
+This Launcher is a fan-made product and has no "official" link to Digital Extremes Ltd or Warframe.
+
+**In short: I am not in any way associated with Digital Extremes Ltd or Warframe.**
 
 Cheers,
 
