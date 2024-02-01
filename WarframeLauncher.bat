@@ -14,6 +14,7 @@ set standalonedir=%USERPROFILE%\AppData\Local\Warframe\Downloaded\Public\Tools\
 set steamdir=%ProgramFiles(x86)%\Steam\steamapps\common\Warframe\Tools\
 set epicgamesdir=%ProgramFiles%\Epic Games\Warframe\Downloaded\Tools\
 set epicgameslink="com.epicgames.launcher://apps/244aaaa06bfa49d088205b13b9d2d115%%3A9b6e3ff688c448f4971a9c752094f286%%3A398965b67f314d31b0683b8ea11c93a4?action=launch"
+set errorhelp="https://github.com/ConzZah/WarframeLauncher/blob/main/error_noclientfound.md"
 :standalone
 if not exist "%standalonedir%" goto steam
 if exist "%standalonedir%" cd "%standalonedir%" && echo [GAME CLIENT DETECTED] && echo - Standalone Version && echo. && goto pw2clipboard
@@ -35,4 +36,5 @@ echo  */// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ \\\*
 echo */// .: Password copied to Clipboard! :. \\\*
 timeout /t 10 /nobreak >nul && del /f /q "%TempVBSFile%" && exit
 :noclientfound
-echo [ERROR]: WARFRAME CLIENT COULD NOT BE FOUND. && echo [OPENING ERROR HELP IN 3 SECONDS...] && timeout /t 3 /nobreak >nul && start "" "https://github.com/ConzZah/WarframeLauncher/blob/main/error_noclientfound.md" && timeout /t 5 /nobreak >nul && exit
+echo [ERROR]: WARFRAME CLIENT COULD NOT BE FOUND. && echo [OPENING ERROR HELP IN 3 SECONDS...]
+ timeout /t 3 /nobreak >nul && start "" "%errorhelp%" && timeout /t 5 /nobreak >nul && exit
