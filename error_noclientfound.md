@@ -1,5 +1,6 @@
 ## [ERROR]: WARFRAME CLIENT COULD NOT BE FOUND
-![v0 7-screenshot_errormsg](https://github.com/ConzZah/WarframeLauncher/assets/69615452/6dbe304f-16f8-48bc-8add-57b80330b855)
+![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/b644fd6d-44c8-43e0-9b7e-da85687013be)
+
 
 ### **If you got to this Page, WarframeLauncher could not find your Warframe Client.**
 
