@@ -12,7 +12,8 @@ This could be because of 2 reasons:
 
 - copy & paste the path to your game directory in one of these three lines depending on which version you have installed, after the "=" sign:
 
-![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/1b77a585-d9ef-47be-900a-8643536c93ab)
+![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/6bf46076-8b5f-42a0-a3a5-85c0d042b26a)
+
 
 **GET WARFRAME:**
 - [Warframe Standalone (Warframe.com)](https://www.warframe.com/download)
