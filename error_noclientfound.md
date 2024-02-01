@@ -15,7 +15,7 @@ This could be because of 2 reasons:
 ![image](https://github.com/ConzZah/WarframeLauncher/assets/69615452/6bf46076-8b5f-42a0-a3a5-85c0d042b26a)
 
 
-**GET WARFRAME:**
+## ![image](https://www-static.warframe.com/images/headerLogo.png) **GET WARFRAME:**
 - [Warframe Standalone (Warframe.com)](https://www.warframe.com/download)
 - [Warframe on Steam](https://store.steampowered.com/app/230410/Warframe/)
 - [Warframe on Epic Games](https://store.epicgames.com/en-US/p/warframe)
