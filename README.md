@@ -1,4 +1,4 @@
-# WarframeLauncher (v0.7)
+# ![image](https://www-static.warframe.com/images/headerLogo.png) WarframeLauncher (v0.7)
 **This Batch Script starts the Warframe Launcher &amp; copies your Password to clipboard for easy copy&amp;paste**
 
 ![v0 7-screenshot_standalone](https://github.com/ConzZah/WarframeLauncher/assets/69615452/945b7c43-1880-4dd0-8dae-dd5f868a6984)
@@ -21,7 +21,9 @@
 - added a [error help page](https://github.com/ConzZah/WarframeLauncher/blob/main/error_noclientfound.md) to the repo and linked it in the script so anytime no game client is detected it will open automatically after 3 seconds
 - licensed the project under the [MIT-License](https://github.com/ConzZah/WarframeLauncher/blob/main/LICENSE) 
      
+## DISCLAIMER
 
+Digital Extremes Ltd, Warframe and the logo Warframe are registered trademarks. All rights are reserved worldwide. This Launcher is a fanmade product and has no official link to Digital Extremes Ltd or Warframe.
 
 Cheers,
 
