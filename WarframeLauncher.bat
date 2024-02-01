@@ -23,7 +23,7 @@ if not exist "%steamdir%" goto epicgames
 if exist "%steamdir%" start steam://rungameid/230410 && echo [GAME CLIENT DETECTED] && echo - Steam Version && echo. && goto pw2clipboard
 :epicgames
 if not exist "%epicgamesdir%" goto noclientfound
-if exist "%epicgamesdir%" start  "" "%epicgameslink%" && echo [GAME CLIENT DETECTED] && echo - Epic Games Version && echo. && goto pw2clipboard
+if exist "%epicgamesdir%" start "" "%epicgameslink%" && echo [GAME CLIENT DETECTED] && echo - Epic Games Version && echo. && goto pw2clipboard
 :clientfound
 set TempVBSFile=%tmp%\space-keypress.vbs
 if exist "%TempVBSFile%" del /f /q "%TempVBSFile%"
@@ -37,4 +37,4 @@ echo */// .: Password copied to Clipboard! :. \\\*
 timeout /t 10 /nobreak >nul && del /f /q "%TempVBSFile%" && exit
 :noclientfound
 echo [ERROR]: WARFRAME CLIENT COULD NOT BE FOUND. && echo [OPENING ERROR HELP IN 3 SECONDS...]
- timeout /t 3 /nobreak >nul && start "" "%errorhelp%" && timeout /t 5 /nobreak >nul && exit
+timeout /t 3 /nobreak >nul && start "" "%errorhelp%" && timeout /t 5 /nobreak >nul && exit
